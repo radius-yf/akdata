@@ -1,0 +1,952 @@
+[
+	{
+		"name": "泡普卡",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 2
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "卡缇",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 2
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "米格鲁",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 1
+					},
+					{
+						"name": "轻锰矿",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "格雷伊",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "术师芯片组",
+						"count": 5
+					},
+					{
+						"name": "轻锰矿",
+						"count": 15
+					},
+					{
+						"name": "酮凝集组",
+						"count": 9
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "流星",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 4
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			},
+			{
+				"type": "2技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 2
+					},
+					{
+						"name": "RMA70-24",
+						"count": 1
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "白雪",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			},
+			{
+				"type": "1技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 2
+					},
+					{
+						"name": "RMA70-24",
+						"count": 1
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "红豆",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 4
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			},
+			{
+				"type": "2技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 2
+					},
+					{
+						"name": "RMA70-24",
+						"count": 1
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "杜宾",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "近卫芯片组",
+						"count": 5
+					},
+					{
+						"name": "轻锰矿",
+						"count": 15
+					},
+					{
+						"name": "扭转醇",
+						"count": 11
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "缠丸",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			},
+			{
+				"type": "1技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 2
+					},
+					{
+						"name": "RMA70-24",
+						"count": 1
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "霜叶",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "近卫芯片组",
+						"count": 5
+					},
+					{
+						"name": "研磨石",
+						"count": 15
+					},
+					{
+						"name": "轻锰矿",
+						"count": 7
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "暗索",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 4
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			},
+			{
+				"type": "2技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 2
+					},
+					{
+						"name": "RMA70-24",
+						"count": 1
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "末药",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			},
+			{
+				"type": "1技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 2
+					},
+					{
+						"name": "RMA70-24",
+						"count": 1
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "角峰",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "重装芯片组",
+						"count": 5
+					},
+					{
+						"name": "轻锰矿",
+						"count": 14
+					},
+					{
+						"name": "全新装置",
+						"count": 7
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "古米",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "重装芯片组",
+						"count": 5
+					},
+					{
+						"name": "RMA70-12",
+						"count": 13
+					},
+					{
+						"name": "轻锰矿",
+						"count": 7
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "深海色",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "辅助芯片组",
+						"count": 5
+					},
+					{
+						"name": "固源岩组",
+						"count": 20
+					},
+					{
+						"name": "轻锰矿",
+						"count": 9
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "芙兰卡",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					},
+					{
+						"name": "RMA70-12",
+						"count": 3
+					}
+				]
+			},
+			{
+				"type": "2技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 5
+					},
+					{
+						"name": "RMA70-24",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "因陀罗",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 6
+					},
+					{
+						"name": "轻锰矿",
+						"count": 4
+					}
+				]
+			},
+			{
+				"type": "1技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 5
+					},
+					{
+						"name": "RMA70-24",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "蓝毒",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "聚酸酯组",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "陨星",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "狙击双芯片",
+						"count": 3
+					},
+					{
+						"name": "RMA70-24",
+						"count": 7
+					},
+					{
+						"name": "轻锰矿",
+						"count": 14
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "天火",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					},
+					{
+						"name": "RMA70-12",
+						"count": 3
+					}
+				]
+			},
+			{
+				"type": "2技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 5
+					},
+					{
+						"name": "RMA70-24",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "梅尔",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 6
+					},
+					{
+						"name": "轻锰矿",
+						"count": 4
+					}
+				]
+			},
+			{
+				"type": "1技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 5
+					},
+					{
+						"name": "RMA70-24",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "红",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "聚酸酯组",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "守林人",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					},
+					{
+						"name": "RMA70-12",
+						"count": 3
+					}
+				]
+			},
+			{
+				"type": "2技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 5
+					},
+					{
+						"name": "RMA70-24",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "崖心",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "特种双芯片",
+						"count": 3
+					},
+					{
+						"name": "异铁块",
+						"count": 6
+					},
+					{
+						"name": "轻锰矿",
+						"count": 13
+					}
+				]
+			},
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 6
+					},
+					{
+						"name": "轻锰矿",
+						"count": 4
+					}
+				]
+			},
+			{
+				"type": "1技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 5
+					},
+					{
+						"name": "RMA70-24",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "狮蝎",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "聚酸酯组",
+						"count": 3
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "伊芙利特",
+		"upgradeConsumption": [
+			{
+				"type": "3技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "RMA70-24",
+						"count": 4
+					},
+					{
+						"name": "轻锰矿",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "艾雅法拉",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 8
+					},
+					{
+						"name": "轻锰矿",
+						"count": 3
+					},
+					{
+						"name": "RMA70-12",
+						"count": 4
+					}
+				]
+			},
+			{
+				"type": "2技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "RMA70-24",
+						"count": 4
+					},
+					{
+						"name": "轻锰矿",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "闪灵",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 8
+					},
+					{
+						"name": "轻锰矿",
+						"count": 6
+					}
+				]
+			},
+			{
+				"type": "1技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 6
+					},
+					{
+						"name": "RMA70-24",
+						"count": 4
+					},
+					{
+						"name": "轻锰矿",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "银灰",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 6,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 8
+					},
+					{
+						"name": "聚酸酯组",
+						"count": 4
+					},
+					{
+						"name": "轻锰矿",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "陈",
+		"upgradeConsumption": [
+			{
+				"type": "3技能专精",
+				"level": 1,
+				"value": [
+					{
+						"name": "技巧概要·卷3",
+						"count": 8
+					},
+					{
+						"name": "RMA70-24",
+						"count": 4
+					},
+					{
+						"name": "轻锰矿",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "空爆",
+		"upgradeConsumption": [
+			{
+				"type": "技能",
+				"level": 5,
+				"value": [
+					{
+						"name": "技巧概要·卷2",
+						"count": 1
+					},
+					{
+						"name": "轻锰矿",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "夜魔",
+		"upgradeConsumption": [
+			{
+				"type": "精英化",
+				"level": 2,
+				"value": [
+					{
+						"name": "术师双芯片",
+						"count": 3
+					},
+					{
+						"name": "糖聚块",
+						"count": 7
+					},
+					{
+						"name": "轻锰矿",
+						"count": 14
+					}
+				]
+			}
+		]
+	}
+]

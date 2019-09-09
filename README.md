@@ -2,5 +2,5 @@
 
 ## 使用方式
 ```
-node search.js [材料名]
+node total.js [材料名]
 ```

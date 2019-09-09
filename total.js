@@ -29,13 +29,17 @@ const synthesizable = name => {
 
 
 const input = process.argv[2]
-const hechengpin = synthesizable(input)
-console.log(`${input}可合成：${hechengpin.map(i => i.name).join(',')}`)
+// const hechengpin = synthesizable(input)
+// console.log(`${input}可合成：${hechengpin.map(i => i.name).join(',')}`)
 
-console.log('各种材料需求：')
-const demands = [{ name: input, multiple: 1 }, ...hechengpin].map(i => ({
-	...i,
-	count: consumptionTable.filter(judge(i.name)).map(total(i.name)).reduce(add)
-}))
-demands.forEach(i => console.log(`${i.name}:${i.count} * ${i.multiple} = ${i.count * i.multiple}`))
-console.log(`总计：${demands.reduce((p, i) => p + i.count * i.multiple, 0)}`)
+// console.log('各种材料需求：')
+// const demands = [{ name: input, multiple: 1 }, ...hechengpin].map(i => ({
+// 	...i,
+// 	count: consumptionTable.filter(judge(i.name))
+// 		.map(total(i.name))
+// 		.reduce(add)
+// }))
+// demands.forEach(i => console.log(`${i.name}:${i.count} * ${i.multiple} = ${i.count * i.multiple}`))
+// console.log(`总计：${demands.reduce((p, i) => p + i.count * i.multiple, 0)}`)
+
+console.log(consumptionTable.filter(judge(input)).map(i => `${i.name}:${i.type}-${i.level}`).join('\n'))

@@ -42,4 +42,14 @@ const input = process.argv[2]
 // demands.forEach(i => console.log(`${i.name}:${i.count} * ${i.multiple} = ${i.count * i.multiple}`))
 // console.log(`总计：${demands.reduce((p, i) => p + i.count * i.multiple, 0)}`)
 
-console.log(consumptionTable.filter(judge(input)).map(i => `${i.name}:${i.type}-${i.level}`).join('\n'))
+
+
+const toString = i => `${i.name}:${i.type}${i.level} ` + i.value.map(j => `${j.name}:${j.count}`).join(',')
+
+console.log(
+	consumptionTable
+		// .filter(i => i.type === '1技能专精')
+		.filter(judge(input))
+		.map(toString)
+		.join('\n')
+)

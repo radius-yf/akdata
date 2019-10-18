@@ -29,7 +29,8 @@ const synthesizable = name => {
 
 
 const input = process.argv[2]
-// const hechengpin = synthesizable(input)
+const hechengpin = synthesizable(input)
+
 // console.log(`${input}可合成：${hechengpin.map(i => i.name).join(',')}`)
 
 // console.log('各种材料需求：')
@@ -44,11 +45,12 @@ const input = process.argv[2]
 
 
 
-const toString = i => `${i.name}:${i.type}${i.level} ` + i.value.map(j => `${j.name}:${j.count}`).join(',')
+const toString = i => `${i.name}:${i.type}${i.level}` 
+	+ i.value.map(j => `${j.name}:${j.count}`).join(',')
 
 console.log(
 	consumptionTable
-		// .filter(i => i.type === '1技能专精')
+		.filter(i => i.type === '精英化')
 		.filter(judge(input))
 		.map(toString)
 		.join('\n')

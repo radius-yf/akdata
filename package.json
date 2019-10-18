@@ -1,0 +1,23 @@
+{
+  "name": "akdata",
+  "version": "1.0.0",
+  "description": "```\r node total.js [材料名]\r ```",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radius-yf/akdata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radius-yf/akdata/issues"
+  },
+  "homepage": "https://github.com/radius-yf/akdata#readme",
+  "dependencies": {
+    "sharp": "^0.23.1"
+  }
+}

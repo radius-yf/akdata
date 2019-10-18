@@ -2480,6 +2480,244 @@ exports.consumptionTable = [
 		]
 	},
 	{
+		"name": "红云",
+		"type": "精英化",
+		"level": 1,
+		"value": [
+			{
+				"name": "狙击芯片",
+				"count": 3
+			},
+			{
+				"name": "聚酸酯",
+				"count": 1
+			},
+			{
+				"name": "酮凝集",
+				"count": 1
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "精英化",
+		"level": 2,
+		"value": [
+			{
+				"name": "狙击芯片组",
+				"count": 5
+			},
+			{
+				"name": "聚酸酯组",
+				"count": 18
+			},
+			{
+				"name": "糖组",
+				"count": 12
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "技能",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "技能",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 2
+			},
+			{
+				"name": "酯原料",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "技能",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 3
+			},
+			{
+				"name": "异铁",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "技能",
+		"level": 4,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 3
+			},
+			{
+				"name": "酮凝集",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "技能",
+		"level": 5,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 3
+			},
+			{
+				"name": "全新装置",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "技能",
+		"level": 6,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 4
+			},
+			{
+				"name": "扭转醇",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "1技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 2
+			},
+			{
+				"name": "五水研磨石",
+				"count": 1
+			},
+			{
+				"name": "扭转醇",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "1技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 4
+			},
+			{
+				"name": "提纯源岩",
+				"count": 2
+			},
+			{
+				"name": "五水研磨石",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "1技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "D32钢",
+				"count": 2
+			},
+			{
+				"name": "提纯源岩",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "2技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 2
+			},
+			{
+				"name": "RMA70-24",
+				"count": 1
+			},
+			{
+				"name": "轻锰矿",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "2技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 4
+			},
+			{
+				"name": "糖聚块",
+				"count": 2
+			},
+			{
+				"name": "RMA70-24",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "红云",
+		"type": "2技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "聚合剂",
+				"count": 2
+			},
+			{
+				"name": "白马醇",
+				"count": 2
+			}
+		]
+	},
+	{
 		"name": "白雪",
 		"type": "精英化",
 		"level": 1,
@@ -7002,6 +7240,244 @@ exports.consumptionTable = [
 		]
 	},
 	{
+		"name": "坚雷",
+		"type": "精英化",
+		"level": 1,
+		"value": [
+			{
+				"name": "重装芯片",
+				"count": 3
+			},
+			{
+				"name": "固源岩",
+				"count": 1
+			},
+			{
+				"name": "聚酸酯",
+				"count": 1
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "精英化",
+		"level": 2,
+		"value": [
+			{
+				"name": "重装芯片组",
+				"count": 5
+			},
+			{
+				"name": "固源岩组",
+				"count": 19
+			},
+			{
+				"name": "RMA70-12",
+				"count": 8
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "技能",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "技能",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 2
+			},
+			{
+				"name": "源岩",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "技能",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 3
+			},
+			{
+				"name": "糖",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "技能",
+		"level": 4,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 3
+			},
+			{
+				"name": "聚酸酯",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "技能",
+		"level": 5,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 3
+			},
+			{
+				"name": "异铁组",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "技能",
+		"level": 6,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 4
+			},
+			{
+				"name": "酮凝集组",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "1技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 2
+			},
+			{
+				"name": "酮阵列",
+				"count": 1
+			},
+			{
+				"name": "聚酸酯组",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "1技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 4
+			},
+			{
+				"name": "白马醇",
+				"count": 2
+			},
+			{
+				"name": "酮阵列",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "1技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "双极纳米片",
+				"count": 2
+			},
+			{
+				"name": "三水锰矿",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "2技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 2
+			},
+			{
+				"name": "改量装置",
+				"count": 1
+			},
+			{
+				"name": "异铁组",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "2技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 4
+			},
+			{
+				"name": "三水锰矿",
+				"count": 2
+			},
+			{
+				"name": "改量装置",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "坚雷",
+		"type": "2技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "D32钢",
+				"count": 2
+			},
+			{
+				"name": "白马醇",
+				"count": 2
+			}
+		]
+	},
+	{
 		"name": "深海色",
 		"type": "精英化",
 		"level": 1,
@@ -8926,6 +9402,248 @@ exports.consumptionTable = [
 		]
 	},
 	{
+		"name": "炎客",
+		"type": "精英化",
+		"level": 1,
+		"value": [
+			{
+				"name": "近卫芯片",
+				"count": 4
+			},
+			{
+				"name": "固源岩",
+				"count": 6
+			},
+			{
+				"name": "酮凝集",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "精英化",
+		"level": 2,
+		"value": [
+			{
+				"name": "近卫双芯片",
+				"count": 3
+			},
+			{
+				"name": "白马醇",
+				"count": 9
+			},
+			{
+				"name": "轻锰矿",
+				"count": 13
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "技能",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "技能",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 4
+			},
+			{
+				"name": "源岩",
+				"count": 10
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "技能",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 6
+			},
+			{
+				"name": "糖",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "技能",
+		"level": 4,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 6
+			},
+			{
+				"name": "聚酸酯",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "技能",
+		"level": 5,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 6
+			},
+			{
+				"name": "RMA70-12",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "技能",
+		"level": 6,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "固源岩组",
+				"count": 4
+			},
+			{
+				"name": "全新装置",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "1技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 5
+			},
+			{
+				"name": "糖聚块",
+				"count": 3
+			},
+			{
+				"name": "RMA70-12",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "1技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "异铁块",
+				"count": 3
+			},
+			{
+				"name": "糖聚块",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "1技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 10
+			},
+			{
+				"name": "D32钢",
+				"count": 4
+			},
+			{
+				"name": "异铁块",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "2技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 5
+			},
+			{
+				"name": "聚酸酯块",
+				"count": 3
+			},
+			{
+				"name": "固源岩组",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "2技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "酮阵列",
+				"count": 3
+			},
+			{
+				"name": "聚酸酯块",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "炎客",
+		"type": "2技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 10
+			},
+			{
+				"name": "聚合剂",
+				"count": 4
+			},
+			{
+				"name": "三水锰矿",
+				"count": 4
+			}
+		]
+	},
+	{
 		"name": "因陀罗",
 		"type": "精英化",
 		"level": 1,
@@ -10616,6 +11334,248 @@ exports.consumptionTable = [
 			{
 				"name": "提纯源岩",
 				"count": 5
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "精英化",
+		"level": 1,
+		"value": [
+			{
+				"name": "狙击芯片",
+				"count": 4
+			},
+			{
+				"name": "糖",
+				"count": 5
+			},
+			{
+				"name": "装置",
+				"count": 2
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "精英化",
+		"level": 2,
+		"value": [
+			{
+				"name": "狙击双芯片",
+				"count": 3
+			},
+			{
+				"name": "三水锰矿",
+				"count": 8
+			},
+			{
+				"name": "研磨石",
+				"count": 9
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "技能",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "技能",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 4
+			},
+			{
+				"name": "代糖",
+				"count": 7
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "技能",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 6
+			},
+			{
+				"name": "聚酸酯",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "技能",
+		"level": 4,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 6
+			},
+			{
+				"name": "异铁",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "技能",
+		"level": 5,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 6
+			},
+			{
+				"name": "固源岩组",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "技能",
+		"level": 6,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "糖组",
+				"count": 3
+			},
+			{
+				"name": "异铁组",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "1技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 5
+			},
+			{
+				"name": "异铁块",
+				"count": 3
+			},
+			{
+				"name": "糖组",
+				"count": 1
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "1技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "改量装置",
+				"count": 2
+			},
+			{
+				"name": "异铁块",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "1技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 10
+			},
+			{
+				"name": "双极纳米片",
+				"count": 4
+			},
+			{
+				"name": "五水研磨石",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "2技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 5
+			},
+			{
+				"name": "酮阵列",
+				"count": 3
+			},
+			{
+				"name": "聚酸酯组",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "2技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 6
+			},
+			{
+				"name": "白马醇",
+				"count": 3
+			},
+			{
+				"name": "酮阵列",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "送葬人",
+		"type": "2技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 10
+			},
+			{
+				"name": "D32钢",
+				"count": 4
+			},
+			{
+				"name": "改量装置",
+				"count": 3
 			}
 		]
 	},
@@ -17355,6 +18315,313 @@ exports.consumptionTable = [
 			{
 				"name": "白马醇",
 				"count": 7
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "精英化",
+		"level": 1,
+		"value": [
+			{
+				"name": "辅助芯片",
+				"count": 5
+			},
+			{
+				"name": "异铁",
+				"count": 7
+			},
+			{
+				"name": "聚酸酯",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "精英化",
+		"level": 2,
+		"value": [
+			{
+				"name": "辅助双芯片",
+				"count": 4
+			},
+			{
+				"name": "聚合剂",
+				"count": 4
+			},
+			{
+				"name": "三水锰矿",
+				"count": 6
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "技能",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "技能",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷1",
+				"count": 5
+			},
+			{
+				"name": "异铁碎片",
+				"count": 5
+			},
+			{
+				"name": "代糖",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "技能",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 8
+			},
+			{
+				"name": "酮凝集",
+				"count": 4
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "技能",
+		"level": 4,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 8
+			},
+			{
+				"name": "装置",
+				"count": 3
+			},
+			{
+				"name": "聚酸酯",
+				"count": 3
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "技能",
+		"level": 5,
+		"value": [
+			{
+				"name": "技巧概要·卷2",
+				"count": 8
+			},
+			{
+				"name": "研磨石",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "技能",
+		"level": 6,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 8
+			},
+			{
+				"name": "RMA70-12",
+				"count": 3
+			},
+			{
+				"name": "聚酸酯组",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "1技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 8
+			},
+			{
+				"name": "RMA70-24",
+				"count": 4
+			},
+			{
+				"name": "轻锰矿",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "1技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 12
+			},
+			{
+				"name": "聚酸酯块",
+				"count": 4
+			},
+			{
+				"name": "提纯源岩",
+				"count": 10
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "1技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 15
+			},
+			{
+				"name": "聚合剂",
+				"count": 6
+			},
+			{
+				"name": "三水锰矿",
+				"count": 6
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "2技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 8
+			},
+			{
+				"name": "提纯源岩",
+				"count": 4
+			},
+			{
+				"name": "研磨石",
+				"count": 7
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "2技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 12
+			},
+			{
+				"name": "异铁块",
+				"count": 4
+			},
+			{
+				"name": "糖聚块",
+				"count": 7
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "2技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 15
+			},
+			{
+				"name": "D32钢",
+				"count": 6
+			},
+			{
+				"name": "酮阵列",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "3技能专精",
+		"level": 1,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 8
+			},
+			{
+				"name": "糖聚块",
+				"count": 4
+			},
+			{
+				"name": "RMA70-12",
+				"count": 5
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "3技能专精",
+		"level": 2,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 12
+			},
+			{
+				"name": "酮阵列",
+				"count": 4
+			},
+			{
+				"name": "聚酸酯块",
+				"count": 7
+			}
+		]
+	},
+	{
+		"name": "麦哲伦",
+		"type": "3技能专精",
+		"level": 3,
+		"value": [
+			{
+				"name": "技巧概要·卷3",
+				"count": 15
+			},
+			{
+				"name": "D32钢",
+				"count": 6
+			},
+			{
+				"name": "改量装置",
+				"count": 4
 			}
 		]
 	},
